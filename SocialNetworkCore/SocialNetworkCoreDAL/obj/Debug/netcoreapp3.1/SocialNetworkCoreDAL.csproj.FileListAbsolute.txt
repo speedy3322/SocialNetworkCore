@@ -1,0 +1,8 @@
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\bin\Debug\netcoreapp3.1\SocialNetworkCoreDAL.deps.json
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\bin\Debug\netcoreapp3.1\SocialNetworkCoreDAL.dll
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\obj\Debug\netcoreapp3.1\SocialNetworkCoreDAL.csprojAssemblyReference.cache
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\obj\Debug\netcoreapp3.1\SocialNetworkCoreDAL.AssemblyInfoInputs.cache
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\obj\Debug\netcoreapp3.1\SocialNetworkCoreDAL.AssemblyInfo.cs
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\bin\Debug\netcoreapp3.1\SocialNetworkCoreDAL.pdb
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\obj\Debug\netcoreapp3.1\SocialNetworkCoreDAL.dll
+C:\Michal\coding\SocialNetworkCore\SocialNetworkCore\SocialNetworkCoreDAL\obj\Debug\netcoreapp3.1\SocialNetworkCoreDAL.pdb
